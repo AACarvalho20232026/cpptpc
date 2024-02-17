@@ -1,7 +1,9 @@
-#include <iostream>
+#include <iostream> 
+
+using namespace std;
 
 int main() {
-    using namespace std;
+    
 
     // Declare uma variável para armazenar o número fornecido pelo usuário.
     int n;
